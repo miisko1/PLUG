@@ -3,7 +3,7 @@
     "room": "♪ TOP CZ/SK ♪",
     "author": "miis_ko",
     "icon": "https://i.imgur.com/iNYvJg7.png",
-    "css": "https://cdn.rawgit.com/miisko1/css/92e0efdd/miisko.css",
+    "css": "https://rawgit.com/Samnick86/plug/master/top.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
