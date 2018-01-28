@@ -17,14 +17,14 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null,
-        "friend": null,
+        "host": "#5bf",
+        "cohost": "#58f",
+        "manager": "#e15",
+        "bouncer": "#f45",
+        "rdj": "#f95",
+        "subscriber": "#e6cc26",
+        "silversubscriber": "#dc24d9",
+        "friend": "#54982f",
         "user": null
     },
     "images": {
