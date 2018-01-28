@@ -24,8 +24,8 @@
         "rdj": "#f95",
         "subscriber": "#e6cc26",
         "silversubscriber": "#dc24d9",
-        "friend": "#4ddb00",
-        "user": "#e6ff99"
+        "friend": null,
+        "user": #66ff99
     },
     "images": {
         "background": "https://i.imgur.com/2AnVcGf.jpg",
