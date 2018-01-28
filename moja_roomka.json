@@ -32,13 +32,13 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null
+        "host": "https://i.imgur.com/3TyLfh0.png",
+        "cohost": "https://i.imgur.com/6x7jEuw.png",
+        "manager": "https://i.imgur.com/iYcWKxe.png",
+        "bouncer": "https://i.imgur.com/nC6jqPF.png",
+        "rdj": "https://i.imgur.com/rc1mU8E.png",
+        "subscriber": "https://i.imgur.com/CZYaOrd.png",
+        "silversubscriber": "https://i.imgur.com/qgJInoK.png"
     },
     "emotes": {
     	"emote_name": null
