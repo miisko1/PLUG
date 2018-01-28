@@ -2,7 +2,7 @@
 {
     "room": "♪ TOP CZ/SK ♪",
     "author": "miis_ko",
-    "icon": "https://imgur.com/Rmi4y1A",
+    "icon": null,
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -28,7 +28,7 @@
         "user": null
     },
     "images": {
-        "background": null,
+        "background": "https://imgur.com/Rmi4y1A",
         "playback": null,
         "admin": null,
         "ambassador": null,
