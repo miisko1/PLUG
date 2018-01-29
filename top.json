@@ -41,6 +41,16 @@
         "silversubscriber": "https://i.imgur.com/qgJInoK.png"
     },
     "emotes": {
-    	"emote_name": null
+    	"narval": "https://i.imgur.com/h43fCGa.png",
+        "valien": "https://i.imgur.com/iNYvJg7.png",
+        "playlist": "https://i.imgur.com/e4OMtMT.png",
+        "kitten": "https://i.imgur.com/Gww2Esz.png",
+        "bum": "https://i.imgur.com/Co1GTyk.gif",
+        "chnu": "https://i.imgur.com/nbYQOWx.png",
+        "chnu2": "https://i.imgur.com/4qjt0rr.png",
+        "chnu3": "https://i.imgur.com/D70cqbI.png",
+        "emote_name": null,
+        "emote_name": null
+        
     }
 }
