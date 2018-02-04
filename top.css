@@ -355,7 +355,7 @@
 #dj-button {
 	border-radius: 50px;
 	background: linear-gradient(hsla(210,10%,0%,.7), hsla(210,10%,0%,.7));
-	box-shadow: 0 0 10px #000;
+	box-shadow: 7 7 10px #000;
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(210,10%,0%,.5), hsla(210,10%,0%,.5));
