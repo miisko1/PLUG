@@ -6,7 +6,10 @@
 }
 
 /*--[PLUG]--*/
-
+#rs-eta {
+	font-size: small;
+	color: #FFFFFF !important;
+} 
 .is-staff .name {
 	color: #ac76ff !important;
 }
