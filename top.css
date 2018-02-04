@@ -354,11 +354,11 @@
 
 #dj-button {
 	border-radius: 50px;
-	background: linear-gradient(hsla(210,10%,0%,.7), hsla(210,10%,0%,.7));
+	background: linear-gradient(hsla(210,10%,50%,.3), hsla(210,10%,40%,.3));
 	box-shadow: 7 7 10px #000;
 }
 #dj-button:hover {
-	background: linear-gradient(hsla(210,10%,0%,.5), hsla(210,10%,0%,.5));
+	background: linear-gradient(hsla(210,10%,50%,.5), hsla(210,10%,40%,.5));
 }
 #dj-button .left {
 	border-radius: 50px 0 0 50px;
