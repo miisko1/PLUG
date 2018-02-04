@@ -358,7 +358,7 @@
 }
 #rs-eta {
 	font-size: small;
-	color: #FFFFFF !important;
+	color: #000000 !important;
 }
 #dj-button:hover {
 	background: linear-gradient(hsla(210,10%,50%,.5), hsla(210,10%,40%,.5));
